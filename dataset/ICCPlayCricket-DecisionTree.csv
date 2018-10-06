@@ -1,0 +1,15 @@
+﻿MatchDay,Outlook,Temperature,Humidity,Wind,PlayCricket
+ Day 1,Sunny,Hot,High,Weak,No
+ Day 2,Sunny,Hot,High,Strong,No
+ Day 3,Overcast,Hot,High,Weak,Yes
+ Day 4,Rain,Mild,High,Weak,Yes
+ Day 5,Rain,Cool,Normal,Weak,Yes
+ Day 6,Rain,Cool,Normal,Strong,No
+ Day 7,Overcast,Cool,Normal,Strong,Yes
+ Day 8,Sunny,Mild,High,Weak,No
+ Day 9,Sunny,Cool,Normal,Weak,Yes
+ Day 10,Rain,Mild,Normal,Weak,Yes
+ Day 11,Sunny,Mild,Normal,Strong,Yes
+ Day 12,Overcast,Mild,High,Strong,Yes
+ Day 13,Overcast,Hot,Normal,Weak,Yes
+ Day 14,Rain,Mild,High,Strong,No
